@@ -19,3 +19,4 @@ $ npm run test
 
 ```
 
+![](https://raw.githubusercontent.com/zivile-b/api-tests-template/master/images/mocha-test.gif "")
